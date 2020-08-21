@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+@import "bulma/css/bulma.css"; /* This will add Css when our project runs locally but not in prod build.
+ For Prod build we must add "node_modules/bulma/css/bulma.css" in angular.json file under styles array of architect*/
+
+/*Adding Scoped Css i.e. this css will we applicable to entire project app*/
+
+
+/*Adding */
+
+/*Adding */
